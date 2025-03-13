@@ -1,0 +1,10 @@
+C:\Users\karee\Desktop\Do you love me\Do you love me\bin\Debug\Do you love me.exe.config
+C:\Users\karee\Desktop\Do you love me\Do you love me\bin\Debug\Do you love me.exe
+C:\Users\karee\Desktop\Do you love me\Do you love me\bin\Debug\Do you love me.pdb
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do you love me.csproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do_you_love_me.Form1.resources
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do_you_love_me.Properties.Resources.resources
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do you love me.csproj.GenerateResource.cache
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do you love me.csproj.CoreCompileInputs.cache
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do you love me.exe
+C:\Users\karee\Desktop\Do you love me\Do you love me\obj\Debug\Do you love me.pdb
